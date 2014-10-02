@@ -1,5 +1,5 @@
 ## Laravel 4 系列入门教程
----
+
 
 ###此为代码示例，教程地址：
 
@@ -7,7 +7,6 @@
 > 
 > [Laravel 4 系列入门教程（二）【最适合中国人的Laravel教程】](http://lvwenhan.com/laravel/399.html)
 
----
 ###讨论区：
 
 [PHPHub](http://phphub.org/topics/103)
