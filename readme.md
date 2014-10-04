@@ -6,6 +6,8 @@
 > [Laravel 4 系列入门教程（一）【最适合中国人的Laravel教程】](http://lvwenhan.com/laravel/398.html)
 > 
 > [Laravel 4 系列入门教程（二）【最适合中国人的Laravel教程】](http://lvwenhan.com/laravel/399.html)
+> 
+> [Laravel 4 系列入门教程（三）【最适合中国人的Laravel教程】](http://lvwenhan.com/laravel/400.html)
 
 ###讨论区：
 
