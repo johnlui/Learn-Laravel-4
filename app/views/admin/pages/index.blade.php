@@ -1,8 +1,8 @@
 @extends('admin._layouts.default')
 
-
-{{ Notification::showAll() }}
 @section('main')
+
+    {{ Notification::showAll() }}
 
     <a href="{{ URL::route('admin.pages.create') }}" class="btn btn-primary">新建</a>
 
