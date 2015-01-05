@@ -17,6 +17,8 @@
 
 ***也可以直接在教程下面留言***
 
+> ###别忘了点击上面右侧的 Star 哦，变成 Unstar 就可以了！ :stuck_out_tongue_winking_eye:
+
 ### License
 
 本示例项目继承自 Laravel 采用的 [MIT license](http://opensource.org/licenses/MIT)，你可以利用采用该协议的代码做任何事情，只需要继续继承 MIT 协议即可。
