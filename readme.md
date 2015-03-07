@@ -1,5 +1,7 @@
 ## Laravel 4 系列入门教程
 
+#[Laravel 5 系列入门教程（一）【最适合中国人的 Laravel 教程】](http://lvwenhan.com/laravel/432.html) 已经发布！
+###代码：https://github.com/johnlui/Learn-Laravel-5
 
 ###此为代码示例，教程地址：
 
